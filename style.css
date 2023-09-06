@@ -131,7 +131,7 @@
 
 
 .shop{
-    background-image: url(/img/shop.jpg);
+    background-image: url(shop.jpg);
     background-size: cover;
     height: 300px;
     display: flex;
@@ -223,7 +223,7 @@ ul{
     align-items: center;
 }
 .logo{
-    background-image: url(/img/amazon.png);
+    background-image: url(amazon.png);
     background-size: cover;
     height: 50px;
     width: 100px;
